@@ -13,5 +13,5 @@ Donggeon Yhee, and Bahattin Yildiz. Security guidelines for implementing
 homomorphic encryption. 2024.https://eprint.iacr.org/2024/463
 
 [2] Ilaria Chillotti, Nicolas Gama, Mariya Georgieva, and Malika Izabachène.
-Tfhe: Fast fully homomorphic encryption over the torus. 2018. https:
-//eprint.iacr.org/2018/421.
+Tfhe: Fast fully homomorphic encryption over the torus. 2018. 
+https://eprint.iacr.org/2018/421.
